@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **React, Angular, Node**
 
-- 👨‍💻 See my portfolio at [https://ancient-retreat-84230.herokuapp.com/](https://ancient-retreat-84230.herokuapp.com/)
+- 👨‍💻 See my [portfolio](https://ancient-retreat-84230.herokuapp.com/)
 
 - 💬 Ask me about **MERN, MEAN, Docker**
 
