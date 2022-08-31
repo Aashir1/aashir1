@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/iaashirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaashirkhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aashir-khan-bb8315139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7686708/aashir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7686708/aashir-khan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7686708/aashir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7686708/aashir-khan" height="30" width="40" /></a>
 <a href="https://fb.com/iaashirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iaashirkhan" height="30" width="40" /></a>
 </p>
 
