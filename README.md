@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/iaashirkhan" target="blank"><img src="https://img.shields.io/twitter/follow/iaashirkhan?logo=twitter&style=for-the-badge" alt="iaashirkhan" /></a> </p>
 
-- 🌱 I’m currently learning **Nest**
+<!--- - 🌱 I’m currently learning **Nest** -->
 
 - 👯 I’m looking to collaborate on **React, Angular, Node**
 
-- 👨‍💻 See my [portfolio](https://ancient-retreat-84230.herokuapp.com/)
+<!--- - 👨‍💻 See my [portfolio](https://ancient-retreat-84230.herokuapp.com/) -->
 
 - 💬 Ask me about **MERN, MEAN, Docker**
 
